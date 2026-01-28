@@ -99,4 +99,3 @@ done | histo
   ![size adjustment](http://i.cloudup.com/1359230206899.2c598d4a91643490bdb7be5d781b9e7c.png)
 
   ![tall](http://i.cloudup.com/1359230209532.d602f47204f04da4448460a579ecbfa3.png)
-  
